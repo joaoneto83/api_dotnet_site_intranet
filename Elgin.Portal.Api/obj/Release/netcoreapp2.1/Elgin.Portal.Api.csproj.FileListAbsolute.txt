@@ -1,0 +1,63 @@
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Api.deps.json
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Api.runtimeconfig.json
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Api.runtimeconfig.dev.json
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Api.dll
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Api.pdb
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Services.dll
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Services.pdb
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.csprojAssemblyReference.cache
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.csproj.CoreCompileInputs.cache
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.RazorAssemblyInfo.cache
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.RazorAssemblyInfo.cs
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.AssemblyInfoInputs.cache
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.AssemblyInfo.cs
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.RazorTargetAssemblyInfo.cache
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.csproj.CopyComplete
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.dll
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.pdb
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Api.deps.json
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Api.runtimeconfig.json
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Api.runtimeconfig.dev.json
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Api.dll
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Api.pdb
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Services.dll
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Services.pdb
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.csprojAssemblyReference.cache
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.csproj.CoreCompileInputs.cache
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.RazorAssemblyInfo.cache
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.RazorAssemblyInfo.cs
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.AssemblyInfoInputs.cache
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.AssemblyInfo.cs
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.RazorTargetAssemblyInfo.cache
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.csproj.CopyComplete
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.dll
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.pdb
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\web.config
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\appsettings.json
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.genruntimeconfig.cache
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\web.config
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Api.deps.json
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Api.runtimeconfig.json
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Api.runtimeconfig.dev.json
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Api.dll
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Api.pdb
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Services.dll
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\bin\Release\netcoreapp2.1\Elgin.Portal.Services.pdb
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.csprojAssemblyReference.cache
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.AssemblyInfoInputs.cache
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.AssemblyInfo.cs
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.csproj.CoreCompileInputs.cache
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.RazorAssemblyInfo.cache
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.RazorAssemblyInfo.cs
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.RazorTargetAssemblyInfo.cache
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.csproj.CopyComplete
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.dll
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.pdb
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Api\obj\Release\netcoreapp2.1\Elgin.Portal.Api.genruntimeconfig.cache

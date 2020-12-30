@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Elgin.Portal.Services</id>
+    <version>1.0.0</version>
+    <authors>Elgin.Portal.Services</authors>
+    <owners>Elgin.Portal.Services</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Dapper" version="1.60.6" exclude="Build,Analyzers" />
+        <dependency id="DevExpress.Xpo" version="18.1.11" exclude="Build,Analyzers" />
+        <dependency id="WindowsAzure.Storage" version="9.3.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Services\bin\Debug\netcoreapp2.1\Elgin.Portal.Services.dll" target="lib\netcoreapp2.1\Elgin.Portal.Services.dll" />
+  </files>
+</package>

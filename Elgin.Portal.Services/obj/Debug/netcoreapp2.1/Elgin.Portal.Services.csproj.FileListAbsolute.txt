@@ -1,0 +1,30 @@
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Services\bin\Debug\netcoreapp2.1\Elgin.Portal.Services.deps.json
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Services\bin\Debug\netcoreapp2.1\Elgin.Portal.Services.dll
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Services\bin\Debug\netcoreapp2.1\Elgin.Portal.Services.pdb
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Services\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Features.dll
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Services\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Features.xml
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.csproj.CoreCompileInputs.cache
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.AssemblyInfoInputs.cache
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.AssemblyInfo.cs
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.csproj.CopyComplete
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.dll
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.pdb
+C:\projectDev\master\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.csprojAssemblyReference.cache
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Services\bin\Debug\netcoreapp2.1\Elgin.Portal.Services.deps.json
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Services\bin\Debug\netcoreapp2.1\Elgin.Portal.Services.dll
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Services\bin\Debug\netcoreapp2.1\Elgin.Portal.Services.pdb
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.csproj.CoreCompileInputs.cache
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.AssemblyInfoInputs.cache
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.AssemblyInfo.cs
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.dll
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.pdb
+C:\projectDev\master\traducao\teste_1\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.csprojAssemblyReference.cache
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Services\bin\Debug\netcoreapp2.1\Elgin.Portal.Services.deps.json
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Services\bin\Debug\netcoreapp2.1\Elgin.Portal.Services.dll
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Services\bin\Debug\netcoreapp2.1\Elgin.Portal.Services.pdb
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.csprojAssemblyReference.cache
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.AssemblyInfoInputs.cache
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.AssemblyInfo.cs
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.csproj.CoreCompileInputs.cache
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.dll
+C:\Users\I7\Desktop\api atual\API 20Site 20Elgin 202019\Elgin.Portal.Services\obj\Debug\netcoreapp2.1\Elgin.Portal.Services.pdb

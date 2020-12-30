@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Proposito] (
+    [Id]    UNIQUEIDENTIFIER NOT NULL,
+    [Texto] VARCHAR (1000)   NULL,
+    CONSTRAINT [PK_Proposito] PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+

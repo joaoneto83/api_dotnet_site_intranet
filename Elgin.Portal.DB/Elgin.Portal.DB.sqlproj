@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <Name>Elgin.Portal.DB</Name>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectVersion>4.1</ProjectVersion>
+    <ProjectGuid>{11c8c5d2-7067-4c32-a59f-c6343343171f}</ProjectGuid>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql130DatabaseSchemaProvider</DSP>
+    <OutputType>Database</OutputType>
+    <RootPath>
+    </RootPath>
+    <RootNamespace>Elgin.Portal.DB</RootNamespace>
+    <AssemblyName>Elgin.Portal.DB</AssemblyName>
+    <ModelCollation>1033, CI</ModelCollation>
+    <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
+    <DeployToDatabase>True</DeployToDatabase>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetLanguage>CS</TargetLanguage>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <SqlServerVerification>False</SqlServerVerification>
+    <IncludeCompositeObjects>True</IncludeCompositeObjects>
+    <TargetDatabaseSet>True</TargetDatabaseSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
+    <!-- Default to the v11.0 targets path if the targets file for the current VS version is not found -->
+    <SSDTExists Condition="Exists('$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets')">True</SSDTExists>
+    <VisualStudioVersion Condition="'$(SSDTExists)' == ''">11.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Condition="'$(SQLDBExtensionsRefPath)' != ''" Project="$(SQLDBExtensionsRefPath)\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <ItemGroup>
+    <Folder Include="Properties" />
+    <Folder Include="dbo\" />
+    <Folder Include="dbo\Tables\" />
+    <Folder Include="Storage\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\Tables\Usuario.sql" />
+    <Build Include="dbo\Tables\TipoArquivo.sql" />
+    <Build Include="dbo\Tables\TabelaPreco.sql" />
+    <Build Include="dbo\Tables\SubLinha.sql" />
+    <Build Include="dbo\Tables\SolarVariaveis.sql" />
+    <Build Include="dbo\Tables\SolarSimulacoes.sql" />
+    <Build Include="dbo\Tables\SolarPotenciaPlacas.sql" />
+    <Build Include="dbo\Tables\SecaoProduto.sql" />
+    <Build Include="dbo\Tables\Secao.sql" />
+    <Build Include="dbo\Tables\ProdutoEspecificacaoTecnica.sql" />
+    <Build Include="dbo\Tables\ProdutoClassificacao.sql" />
+    <Build Include="dbo\Tables\ProdutoAparelhoIdeal.sql" />
+    <Build Include="dbo\Tables\Produto.sql" />
+    <Build Include="dbo\Tables\PerfilFuncionalidade.sql" />
+    <Build Include="dbo\Tables\Perfil.sql" />
+    <Build Include="dbo\Tables\PalavraChave.sql" />
+    <Build Include="dbo\Tables\Pais.sql" />
+    <Build Include="dbo\Tables\Modelo.sql" />
+    <Build Include="dbo\Tables\Menu.sql" />
+    <Build Include="dbo\Tables\LogApi.sql" />
+    <Build Include="dbo\Tables\Log.sql" />
+    <Build Include="dbo\Tables\Linha.sql" />
+    <Build Include="dbo\Tables\Funcionalidade.sql" />
+    <Build Include="dbo\Tables\Estado.sql" />
+    <Build Include="dbo\Tables\EspecificacaoTecnica.sql" />
+    <Build Include="dbo\Tables\ElginNews.sql" />
+    <Build Include="dbo\Tables\Classificacao.sql" />
+    <Build Include="dbo\Tables\Cidade.sql" />
+    <Build Include="dbo\Tables\Caracteristica.sql" />
+    <Build Include="dbo\Tables\Banner.sql" />
+    <Build Include="dbo\Tables\Assistencia.sql" />
+    <Build Include="dbo\Tables\Arquivo.sql" />
+    <Build Include="dbo\Tables\Questao.sql" />
+    <Build Include="dbo\Tables\Prova.sql" />
+    <Build Include="dbo\Tables\Alternativa.sql" />
+    <Build Include="dbo\Tables\SecaoProdutoIcone.sql" />
+    <Build Include="dbo\Tables\Contato.sql" />
+    <Build Include="dbo\Tables\CargaProduto.sql" />
+    <Build Include="dbo\Tables\CargaCaracteristica.sql" />
+    <Build Include="dbo\Tables\GrupoUsuario.sql" />
+    <Build Include="dbo\Tables\Grupo.sql" />
+    <Build Include="dbo\Tables\SolarIntegrador.sql" />
+    <Build Include="dbo\Tables\Questao.sql" />
+    <Build Include="dbo\Tables\Prova.sql" />
+    <Build Include="dbo\Tables\GrupoUsuario.sql" />
+    <Build Include="dbo\Tables\Grupo.sql" />
+    <Build Include="dbo\Tables\Contato.sql" />
+    <Build Include="dbo\Tables\Alternativa.sql" />
+    <Build Include="dbo\Tables\AgendamentoUsuario.sql" />
+    <Build Include="dbo\Tables\Agendamento.sql" />
+    <Build Include="dbo\Tables\SolarIntegrador.sql" />
+    <Build Include="dbo\Tables\QuestaoAgendamentoUsuario.sql" />
+    <Build Include="dbo\Tables\Notificacao.sql" />
+    <Build Include="dbo\Tables\AlternativaQuestaoAgendamentoUsuario.sql" />
+    <Build Include="dbo\Tables\TipoAviso.sql" />
+    <Build Include="dbo\Tables\Aviso.sql" />
+    <Build Include="dbo\Tables\ModeloEmail.sql" />
+    <Build Include="dbo\Tables\AssistenciaVinculadaSubLinha.sql" />
+    <Build Include="dbo\Tables\AssistenciaVinculada.sql" />
+    <Build Include="dbo\Tables\AgendaTreinamentos.sql" />
+    <Build Include="dbo\Tables\Setor.sql" />
+    <Build Include="dbo\Tables\ResponsavelSetor.sql" />
+    <Build Include="dbo\Tables\Evento.sql" />
+    <Build Include="dbo\Tables\Proposito.sql" />
+    <Build Include="dbo\Tables\ModuloArquivoTi.sql" />
+    <Build Include="dbo\Tables\LogEmail.sql" />
+    <Build Include="dbo\Tables\Video.sql" />
+    <Build Include="dbo\Tables\TipoUsuario.sql" />
+    <Build Include="dbo\Tables\TipoPagamento.sql" />
+    <Build Include="dbo\Tables\TipoEventoRefrigeracao.sql" />
+    <Build Include="dbo\Tables\TipoDependente.sql" />
+    <Build Include="dbo\Tables\SubLinhaIdioma.sql" />
+    <Build Include="dbo\Tables\Segmento.sql" />
+    <Build Include="dbo\Tables\SecaoProdutoIdioma.sql" />
+    <Build Include="dbo\Tables\SecaoProdutoIconeIdioma.sql" />
+    <Build Include="dbo\Tables\SecaoModeloIcone.sql" />
+    <Build Include="dbo\Tables\SecaoModeloGrupo.sql" />
+    <Build Include="dbo\Tables\SecaoModelo.sql" />
+    <Build Include="dbo\Tables\ProdutoIdioma.sql" />
+    <Build Include="dbo\Tables\ProdutoEspecificacaoTecnicaIdioma.sql" />
+    <Build Include="dbo\Tables\PerguntaFrequente.sql" />
+    <Build Include="dbo\Tables\PedidoProduto.sql" />
+    <Build Include="dbo\Tables\Pedido.sql" />
+    <Build Include="dbo\Tables\PecaReposicao.sql" />
+    <Build Include="dbo\Tables\LinhaIdioma.sql" />
+    <Build Include="dbo\Tables\Integrador.sql" />
+    <Build Include="dbo\Tables\GrupoDestaqueProduto.sql" />
+    <Build Include="dbo\Tables\GrupoDestaque.sql" />
+    <Build Include="dbo\Tables\EventoRefrigeracao.sql" />
+    <Build Include="dbo\Tables\EspecificacaoTecnicaIdioma.sql" />
+    <Build Include="dbo\Tables\Dependente.sql" />
+    <Build Include="dbo\Tables\ClassificacaoIdioma.sql" />
+    <Build Include="dbo\Tables\CargaProdutoClassificacao.sql" />
+    <Build Include="dbo\Tables\CargaDestaque.sql" />
+    <Build Include="dbo\Tables\CargaCarrossel.sql" />
+    <Build Include="dbo\Tables\CaracteristicaIdioma.sql" />
+    <Build Include="dbo\Tables\ArquivoIdioma.sql" />
+    <Build Include="dbo\Tables\VideoIdioma.sql" />
+    <Build Include="dbo\Tables\BannerIdioma.sql" />
+    <Build Include="dbo\Tables\EventoRefrigeracaoIdioma.sql" />
+  </ItemGroup>
+</Project>
